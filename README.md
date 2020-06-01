@@ -1,5 +1,5 @@
 # Binary_Search_Tree
-An application which stores the records of the students in a Binary Search Tree
+An application in C, which stores the records of the students in a Binary Search Tree
 # What is used to build:
 1) Linked Lists
 2) Structures
